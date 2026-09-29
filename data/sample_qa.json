@@ -1,0 +1,110 @@
+[
+  {
+    "id": "q1",
+    "question": "In what city is the company that makes Helios headquartered?",
+    "gold_doc_ids": [
+      "product_helios",
+      "aurora_dynamics"
+    ],
+    "reference_answer": "Meridian City"
+  },
+  {
+    "id": "q2",
+    "question": "What company manufactures the robotic arm platform that Solace Robotics's founder helped develop before starting her own company?",
+    "gold_doc_ids": [
+      "priya_nair",
+      "product_helios"
+    ],
+    "reference_answer": "Aurora Dynamics"
+  },
+  {
+    "id": "q3",
+    "question": "Who founded the company that acquired Nimbus Systems?",
+    "gold_doc_ids": [
+      "acquisition_aurora_nimbus",
+      "aurora_dynamics"
+    ],
+    "reference_answer": "Mira Chen"
+  },
+  {
+    "id": "q4",
+    "question": "In what year was the sensor platform made by the company founded by Tunde Okafor released?",
+    "gold_doc_ids": [
+      "tunde_okafor",
+      "product_zephyr"
+    ],
+    "reference_answer": "2018"
+  },
+  {
+    "id": "q5",
+    "question": "What award did the flagship product of the company headquartered in Meridian City receive?",
+    "gold_doc_ids": [
+      "aurora_dynamics",
+      "tech_innovation_award"
+    ],
+    "reference_answer": "The Tech Innovation Award (manufacturing category), in 2019"
+  },
+  {
+    "id": "q6",
+    "question": "What year was the organization that presents the award won by Helios founded?",
+    "gold_doc_ids": [
+      "tech_innovation_award",
+      "global_tech_council"
+    ],
+    "reference_answer": "1985"
+  },
+  {
+    "id": "q7",
+    "question": "Which city is the company that partnered with Solace Robotics in 2022 headquartered in?",
+    "gold_doc_ids": [
+      "aurora_solace_partnership",
+      "aurora_dynamics"
+    ],
+    "reference_answer": "Meridian City"
+  },
+  {
+    "id": "q8",
+    "question": "Which company acquired the company headquartered in Port Haven?",
+    "gold_doc_ids": [
+      "nimbus_systems",
+      "acquisition_aurora_nimbus"
+    ],
+    "reference_answer": "Aurora Dynamics"
+  },
+  {
+    "id": "q9",
+    "question": "What product did the company founded by Priya Nair release in 2021?",
+    "gold_doc_ids": [
+      "priya_nair",
+      "product_aria"
+    ],
+    "reference_answer": "Aria"
+  },
+  {
+    "id": "q10",
+    "question": "In what year was the company that makes Zephyr acquired?",
+    "gold_doc_ids": [
+      "product_zephyr",
+      "acquisition_aurora_nimbus"
+    ],
+    "reference_answer": "2021"
+  },
+  {
+    "id": "q11",
+    "question": "What prior role did the founder of the company that makes Aria hold?",
+    "gold_doc_ids": [
+      "product_aria",
+      "priya_nair"
+    ],
+    "reference_answer": "Chief engineer at Aurora Dynamics, overseeing Helios development"
+  },
+  {
+    "id": "q12",
+    "question": "What signature feature does the flagship product of the company founded by Mira Chen have?",
+    "gold_doc_ids": [
+      "mira_chen",
+      "product_helios"
+    ],
+    "reference_answer": "A rapid tool-change system (under four seconds)"
+  }
+]

@@ -1,0 +1,18 @@
+# --- Demo (local, no API keys, no internet required) ---
+numpy
+scipy
+scikit-learn
+rank_bm25
+pandas
+
+# --- FREE real benchmark (run on your own machine, install separately) ---
+# sentence-transformers       # free open embeddings (bge-small-en-v1.5) + cross-encoder reranker
+# datasets                    # HotpotQA loader (data/load_hotpotqa.py)
+# ragas                       # LLM-judged Faithfulness / Answer Relevancy / Context Precision/Recall
+# langchain-ollama            # free local LLM judge via Ollama (https://ollama.com)
+# langchain-huggingface       # free embeddings for RAGAS's internal use
+
+# --- Optional paid backends (not required) ---
+# openai                      # OpenAI embeddings / GPT-4, if you want that comparison arm
+# anthropic                   # Claude as generation model / RAGAS judge
+# langchain-anthropic         # Claude as RAGAS judge
